@@ -14,10 +14,14 @@
         top: 45%;
         left: 45%;
         color: blue;
-    }
+            }
+h2{
+    color: red;
+}
     </style>
 </head>
 <body>
     <h1>Vivement le midi!</h1>
+    <h2>TEST</h2>
 </body>
 </html>
