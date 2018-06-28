@@ -23,5 +23,6 @@ h2{
 <body>
     <h1>Vivement le midi!</h1>
     <h2>TEST</h2>
+    <h3>TEST PARTAGE</h3>
 </body>
 </html>
